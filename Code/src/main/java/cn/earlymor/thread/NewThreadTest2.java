@@ -1,4 +1,4 @@
-package cn.earlymor.Thread;
+package cn.earlymor.thread;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -8,7 +8,7 @@ import java.util.concurrent.FutureTask;
 
 /**
  * @projectName: JUC
- * @package: cn.earlymor.Thread
+ * @package: cn.earlymor.thread
  * @className: NewThreadTest2
  * @author: earlymor
  * @description: 使用 FutureTask + Callable 创建线程任务

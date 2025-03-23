@@ -1,4 +1,4 @@
-package cn.earlymor.Thread;
+package cn.earlymor.thread;
 
 import lombok.extern.slf4j.Slf4j;
 
